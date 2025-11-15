@@ -1,4 +1,3 @@
-# 코드정리후 코드
 # -*- coding: utf-8 -*-
 
 import os
