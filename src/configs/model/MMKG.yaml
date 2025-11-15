@@ -1,0 +1,21 @@
+# 있어야하는거
+batch_size_kg: 2048
+is_multimodal_model: True
+embedding_size: 64
+indices_k: 10
+use_kg: True
+use_kg_loss : True
+mm_image_weight: 0.1
+item_n_layers : 1
+use_image: True
+use_text: True
+use_review: True
+use_llm: True
+use_sparse : True
+
+n_layers: [1, 2, 3, 4]
+kg_layer_n : [1, 2, 3, 4]
+knn_k: [5, 7, 10]
+reg_weight: [1e-1, 1e-2, 1e-3]
+kg_reg_weight : [1e-4, 1e-05, 1e-6]
+hyper_parameters: [n_layers, kg_layer_n, knn_k, reg_weight, kg_reg_weight]
