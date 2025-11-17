@@ -1,7 +1,7 @@
-# **E-MMKGR: Unified Multimodal Knowledge Graph Representation for E-commerce Recommendation, Search, and Beyond**
+# **E-MMKGR: A Unified Multimodal Knowledge Graph Framework for E-commerce Applications.**
 
 This repository provides the **official implementation** of  
-**“E-MMKGR: Unified Multimodal Knowledge Graph Representation for E-commerce Recommendation, Search, and Beyond.”**
+**“E-MMKGR: A Unified Multimodal Knowledge Graph Framework for E-commerce Applications.”**
 
 ✅ This code is built upon [MMRec](https://github.com/enoche/MMRec)
 
